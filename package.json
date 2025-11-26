@@ -1,0 +1,12 @@
+{
+  "name": "mcplayer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.33.0",
+    "express": "^5.1.0"
+  }
+}
